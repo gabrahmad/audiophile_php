@@ -1,0 +1,14 @@
+#mainHero {
+  background-image: url("../img/main.jpg");
+  background-color: rgb(25, 25, 25);
+  background-position: center right;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.category_image {
+  width: 50%;
+  max-height: 50%;
+  transform: translateY(-40%);
+  margin: auto;
+}
